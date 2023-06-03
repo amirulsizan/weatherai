@@ -12,11 +12,11 @@ export function PageData({ data }: { data: any }) {
           rel="noreferrer"
           className="pill"
         >
-          Deploy your own to Vercel
+          Follow @amirulsizan
         </a>
-        <h1>WeatherGPT</h1>
+        <h1>Weather Ai</h1>
         <p className="description">
-          ChatGPT Plugin to get the weather of any given location
+          Get the weather data of any given location
         </p>
         <Illustration />
         <div className="meta">
